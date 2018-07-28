@@ -1,0 +1,43 @@
+.barraNavegacion{
+	height: 100px;
+	background-color: gray;
+	padding-top: 40px;
+}
+
+.izquierda{
+	float: left;
+}
+
+.limpiador{
+	clear: both;
+}
+
+.centrado{
+	position: relative;
+	left: 33%;
+}
+
+.derecha{
+	float: right;
+}
+
+.fila1{
+	height: 600px;	
+}
+
+.fila1>div{
+	display: inline-block;
+}
+
+.columna1{
+	width: 29%;	
+}
+
+.columna2{
+	overflow: hidden;
+	width: 69%;
+}
+
+.columna2>img{
+	height: 600px;
+}
