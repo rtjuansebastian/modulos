@@ -1,10 +1,7 @@
 # modulos
-## subtitulo
+## Clase de CSS y HTML curso de Full Stack
 
-[google](http://www.google.com)
+Este es un ejemplo de como se puede resolver el ejercicio de CSS y HTML planteado en el curso de desarrollo de software Full Stack del proyecto Piensa Digital.
 
-*texto*
-
-+ item 1
-+ item 2
+En este se ponen en practica conceptos de posicionamiento.
 
